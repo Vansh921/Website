@@ -1,0 +1,76 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Vansh's blog
+email: vanshsharma921@gmail.com
+description: 
+url: http://Vansh921.github.io
+baseurl: ""
+keywords: ["blog", "jekyll"]
+
+plugins: [jekyll-paginate]
+paginate_path: "/page:num/"
+paginate: 5
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Kolkata
+markdown:          kramdown
+highlighter:       rouge
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Vansh
+  avatar: vansh.jpg
+  job: "blogger"
+  bio: "An over-enthusiastic nerd bringing you his over-enthusiastic nery (and sometimes blasphemous) thoughts on topics like psychology, mythology, art, history, literature and  space with a hint of conspiracy theories and fantasy in between"
+  email: vanshsharma921@gmail.com
+  disqus-shortname:
+  twitter: vansh921
+  facebook: Vansh Sharma
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: Vansh921
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: vansh921
+  lastfm: #username
+  tumblr: assdork
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: Vansh921
+  telegram: #username
