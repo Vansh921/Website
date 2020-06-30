@@ -8,6 +8,7 @@ permalink:  /:title/
 category:  "Poems"
 ---
 
+{% highlight text %}
 The best thing about light is
 It brightens up the darkest spaces
 The worst thing about light is
@@ -41,3 +42,4 @@ That apparently everyone has since birth
 But it's the dark that lets me run away
 From the graves and abandoned faces
 To a place of solace, to a place of rebirth.
+{% endhighlight%}
