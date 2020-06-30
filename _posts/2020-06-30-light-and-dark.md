@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     "Light_and_Dark"
+title:     "light_and_dark"
 description:  "A poem highlighting the qualities of darkness and of light
 date:      2020-06-30 17:15:00
 author:     "Vansh"
