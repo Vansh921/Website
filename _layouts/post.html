@@ -38,16 +38,18 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+	
+	<!-- COMMENTS START -->
+  <div id="hyvor-talk-view"></div>
+	<script type="text/javascript">
+	    var HYVOR_TALK_WEBSITE = YOUR_WEBSITE_ID; // DO NOT CHANGE THIS
+	    var HYVOR_TALK_CONFIG = {
+	        url: false,
+	        id: false
+	    }
+	</script>
+	<script type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+  <!-- COMMENTS END -->
+
 </div>
-<section class="single">
 
-	<div class="wrap">
-
-		{{ page.content }}
-
-		{% if page.comments_id %}
-			{% include comments.html %}
-		{% endif %}
-	</div>
-
-</section>
