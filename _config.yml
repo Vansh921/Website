@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Vansh's Bog
+title: Vansh's Blog
 email: vanshsharma921@gmail.com
 description: 
 url: https://mythsandmuses.co
@@ -76,3 +76,4 @@ owner:
   telegram: #username
 
 theme: jekyll-theme-merlot
+
