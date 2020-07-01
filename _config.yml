@@ -13,7 +13,7 @@ keywords: ["blog", "jekyll"]
 plugins: [jekyll-paginate]
 paginate_path: "/page:num/"
 paginate: 5
-
+theme: jekyll-theme-cayman
 
 #
 ###################################
@@ -75,4 +75,3 @@ owner:
   reddit: Vansh921
   telegram: #username
 
-theme: jekyll-theme-merlot
