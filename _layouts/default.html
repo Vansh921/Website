@@ -4,7 +4,20 @@
 {% include head.html %}
 
 <body>
-  <!-- Begin Mailchimp Signup Form -->
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
+        {% include sidebar.html %}
+      </div>
+    </div>
+    <div class="col s12 m9">
+      <div class="post-listing">
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+  </div>
+	 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -40,18 +53,5 @@
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-  <div class="row">
-    <div class="col s12 m3">
-      <div class="table cover">
-        {% include sidebar.html %}
-      </div>
-    </div>
-    <div class="col s12 m9">
-      <div class="post-listing">
-        {{ content }}
-        {% include footer.html %}
-      </div>
-    </div>
-  </div>
 </body>
 </html>
