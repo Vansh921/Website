@@ -7,7 +7,7 @@ title: Vansh's Blog
 email: vanshsharma921@gmail.com
 description: 
 url: https://mythsandmuses.co
-baseurl: "http://eepurl.com/g9g6eD"
+baseurl: ""
 keywords: ["blog", "jekyll"]
 
 plugins: [jekyll-paginate]
