@@ -32,4 +32,4 @@ I will now take my leave with a little bit of information to act as a parting gi
 
 I do hope I'll be seeing some comments. Till then, goodbye and good day
 
-{% include subscription-form.html %}
+
