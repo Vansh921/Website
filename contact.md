@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-Fill this subscribe!
+Subscribe to get regular email updates for new posts!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
