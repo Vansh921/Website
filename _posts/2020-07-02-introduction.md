@@ -31,3 +31,5 @@ I believe this has been enough of an introduction for now and i do hope to get t
 I will now take my leave with a little bit of information to act as a parting gift. In the next post, which will be live in less than 48 hours, I will be talking about the importance and relevance of my profile picture.
 
 I do hope I'll be seeing some comments. Till then, goodbye and good day
+
+{% include subscription-form.html %}
