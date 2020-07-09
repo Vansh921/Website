@@ -252,12 +252,12 @@ a,span,.social-links ul li a.social-link-item,.tag-list .tag-group .tag-group-ti
   color:#000 !important;
 }
 .post-content {
-  font-family:$font-family-monospace;
+  font-family:$font-family-roboto !important; 
 }
 span.author_bio mbm{
-  font-family:$font-family-noto-serif-italic;
+  font-family:$font-family-noto-serif-italic !important;
 }
 #post h1{
-  font-family:$font-family-noto-serif-italic;
-  font-style:regular;
+  font-family:$font-family-noto-serif-italic !important;
+  font-style:regular !important;
 }
