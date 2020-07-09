@@ -248,6 +248,16 @@ a.read-more {
 }
 
 
-a,span,.social-links ul li a.social-link-item{
+a,span,.social-links ul li a.social-link-item,.tag-list .tag-group .tag-group-title{
   color:#000 !important;
+}
+.post-content {
+  font-family:$font-family-monospace;
+}
+span.author_bio mbm{
+  font-family:$font-family-noto-serif-italic;
+}
+#post h1{
+  font-family:$font-family-noto-serif-italic;
+  font-style:regular;
 }
