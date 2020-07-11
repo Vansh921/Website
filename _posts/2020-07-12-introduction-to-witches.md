@@ -48,7 +48,7 @@ The bottom line is that witches _are_ real. They always have been and history is
 that. But the definition of witches throughout history has changed, and so has our method of
 dealing with them.
 
-![ERROR](/Website/img/witch.jpg "Witch")
+![ERROR](https://github.com/Vansh921/Website/blob/master/img/witch.jpg)
 
 Early witches were thought to be people who practiced witchcraft and magic to call upon
 spirts to do their bidding. Most of them were accused to be pagans doing the Devil's work.
