@@ -10,7 +10,7 @@ category: "Witches"
 
 # BURNED AT STAKE
 
-Hey there! In the previous post i had promised a surprise for all the readers and here it is. This
+Hey there! In the previous post I had promised a surprise for all the readers and here it is. This
 post is the beginning of something new and I sincerely hope you enjoy reading this as much as I
 enjoyed writing it. Today, we will talk about _witches_.
 
