@@ -13,7 +13,7 @@ category: "Witches"
 I have walked this Earth for around 17 years now. Sure, I haven't seen everything, not even close,
 but I do read a lot. And once, while reading random stuff, I came across the mentions of a
 species of animals. The species had a very special type of organisms. Their scientific name is
-_homo sapiens_ but commonly refer to them as humans.
+_homo sapiens_ but we commonly refer to them as humans.
 
 Humans have been around for a long time and we have constantly evolved. It amazes me, the
 apparently impossible extent of human intellect. With every passing day, we develop something
