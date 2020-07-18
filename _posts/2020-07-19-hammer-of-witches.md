@@ -40,7 +40,6 @@ but not limited to, cannibalism and causing male impotence. Because of course th
 use magical powers if you had them.
 
 I'm sure it's obvious so far Kramer's book did not have a lot of sense and in today's world will be
-
 seen as a misogynistic fantasy fiction. But, at that time, Witches' Hammer was hugely influential.
 Many religious authorities approved of the book and then disapproved of it but eventually, it
 managed to leave its mark one way or the other.
