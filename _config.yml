@@ -10,7 +10,7 @@ url: https://mythsandmuses.co
 baseurl: ""
 keywords: ["blog", "jekyll"]
 
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-seo-tag]
 paginate_path: "/page:num/"
 paginate: 5
 
