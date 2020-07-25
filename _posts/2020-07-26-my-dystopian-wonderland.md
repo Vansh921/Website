@@ -5,7 +5,7 @@ description: "A deeper look into the sub-genre of Dystopian Fiction."
 date:       2020-07-26 0:10:00
 author:     "Vansh"
 permalink: /:title/
-category: "Stories"
+category: "Articles"
 ---
 
 # Your Personal Hell
