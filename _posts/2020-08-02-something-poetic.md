@@ -28,58 +28,57 @@ whole idea and give poetry a shot.
 
 ## Something Poetic
 
-I could write something poetic//
-Something like a cool summer breeze//
-Or the first ray of sunlight after a bout of rain//
-But that doesn’t sit well with me//
+I could write something poetic  
+Something like a cool summer breeze  
+Or the first ray of sunlight after a bout of rain  
+But that doesn’t sit well with me  
 It just doesn’t feel right.
 
-Me and you, we have more chaos to us//
-We hold storms within//
-Me and you, together we're forces of power//
+Me and you, we have more chaos to us  
+We hold storms within  
+Me and you, together we're forces of power  
 Everything about us is akin.
 
-Our friendship is special to me//
-It is based//
-On me making mistakes //
-And you playing along.//
-Pointing out my wrong grammar,//
-And agreeing to my plans//
-(No matter how close //
-To trouble they bring us)//
-It is based//
-On you saying something smart//
+Our friendship is special to me  
+It is based  
+On me making mistakes  
+And you playing along.  
+Pointing out my wrong grammar,  
+And agreeing to my plans  
+(No matter how close  
+To trouble they bring us)  
+It is based  
+On you saying something smart  
 And getting raspberries in response.
 
-But the best part about it is//
-That we're not friends anymore//
-We've evolved and grown //
-And are closer to siblings//
+But the best part about it is  
+That we're not friends anymore  
+We've evolved and grown  
+And are closer to siblings  
 Who are always engaged in friendly war.
 
-More than anything//
-I am inspired by you//
-Inspired by the love you give//
-And the strength you shine with.//
-I am inspired by the things you do//
-And the way you do them//
-With a firm resolve//
+More than anything  
+I am inspired by you  
+Inspired by the love you give  
+And the strength you shine with.  
+I am inspired by the things you do  
+And the way you do them  
+With a firm resolve  
 And a passion like no other.
 
-I could write a dozen more stanzas//
-On the friendship of you and I//
-Or I could dedicate this one little poem//
-To all the people who have loved me//
-And have been loved in return//
-And to the ones who are not here anymore//
+I could write a dozen more stanzas  
+On the friendship of you and I  
+Or I could dedicate this one little poem  
+To all the people who have loved me  
+And have been loved in return  
+And to the ones who are not here anymore  
 Yet still reside in my memories.
 
-
-So I don’t know//
-How to end poems//
-For they are nothing but mere//
-Manifestation of the stories and the tales//
-I have to tell. And, well stories,//
+So I don’t know  
+How to end poem  
+For they are nothing but mere  
+Manifestation of the stories and the tales  
+I have to tell. And, well stories,  
 They never end.
 
 ***
