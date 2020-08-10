@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Welcome"
+title:      "Myths and Muses"
 description: "An introduction to the blog"
 date:       2020-07-02 0:30:00
 author:     "Vansh"
