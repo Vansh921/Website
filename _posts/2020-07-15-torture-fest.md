@@ -6,9 +6,10 @@ date:       2020-07-15 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Witches"
+image: { feature: vansh.jpg }
 ---
 
-# Witch torture 101 with yours truly
+#### - Witch torture 101 with yours truly
 
 I have walked this Earth for around 17 years now. Sure, I haven't seen everything, not even close,
 but I do read a lot. And once, while reading random stuff, I came across the mentions of a

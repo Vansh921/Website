@@ -6,9 +6,10 @@ date:       2020-07-02 0:30:00
 author:     "Vansh"
 permalink: /:title/
 category: "About the Author"
+image: { feature: vansh.jpg }
 ---
 
-# MYTHS AND MUSES
+#### - MYTHS AND MUSES
 
 Hi there, new reader! Welcome to Myths and Muses. My name is Vansh Sharma, I am a student, and I will be acting as your friendly blogger and host for now.
 

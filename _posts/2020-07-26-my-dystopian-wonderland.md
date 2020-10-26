@@ -6,9 +6,10 @@ date:       2020-07-26 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Articles"
+image: { feature: vansh.jpg }
 ---
 
-# Your Personal Hell
+#### - Your Personal Hell
 
 Hi there! Welcome back. I have a little task for everyone today. I want you to think of the perfect,
 unproblematic society. Think of a place where everything is good and nobody has complaints of

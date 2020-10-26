@@ -6,9 +6,10 @@ date:       2020-08-05 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Articles"
+image: { feature: vansh.jpg }
 ---
 
-# It's Not a Box
+#### - It's Not a Box
 
 Hope. Four letters. One syllable. Such a simple word, isn’t it, and yet so powerful. Hope can have
 people complete miraculous feats which are normally supposed to be impossible. Hope lets

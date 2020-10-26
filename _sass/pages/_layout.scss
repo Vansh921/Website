@@ -1,7 +1,5 @@
 /* LAYOUT CSS */
 .cover {
-  background-color: $main-background-color;
-  position: fixed;
   text-align: center;
   width: 100%;
   min-height: 400px;
@@ -18,8 +16,11 @@
   }
 }
 .cover-card {
+  background-color: #ffffff96;
+  border: 1px outset #15ac96;
+  padding: 9%;
   color: $text-color;
-  padding: 0 30px;
+  // padding: 0 30px;
   .avatar {
     border-radius: 50%;
     width: 100px;
@@ -51,7 +52,7 @@
   @include media-query($medium-screen) {
     text-align: right;
     margin: 0 auto;
-    padding: 0 0px 80px;
+    // padding: 0 0px 80px;
   }
 }
 .social-links {

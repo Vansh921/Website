@@ -3,7 +3,24 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<section class="post">
+<section class="post col s12 m5">
+
+  {% if post.image.feature %}
+    <div class="post-image-feature">
+      <img src=
+      {% if post.image.feature contains 'http' %}
+      "{{ post.image.feature }}"
+      {% else %}
+      "{{ site.url }}/img/{{ post.image.feature }}"
+      {% endif %}
+      alt="{{ post.title | escape }} feature image">
+
+      {% if post.image.credit %}
+      <span class="image-credit">Photo Credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
+      {% endif %}
+    </div><!-- /.image-wrap -->
+    {% endif %}
+
   <header class="post-header">
     <p class="post-meta">
       <span class="post-date">
@@ -19,12 +36,12 @@ layout: default
       {% endfor %}
       {% endif %}
     </p>
-    <h4>
+    <h2>
       <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title | escape }}">{{ post.title }}</a>
       {% if post.link %}
       <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title | escape }}"><i class="fa fa-external-link"></i></a>
       {% endif %}
-    </h4>
+    </h2>
 
     {% if post.author %}
       {% assign author = site.data.authors[post.author] %}
@@ -42,39 +59,23 @@ layout: default
     </div>
     {% endif %}
 
-    {% if post.image.feature %}
-    <div class="post-image-feature">
-      <img src=
-      {% if post.image.feature contains 'http' %}
-      "{{ post.image.feature }}"
-      {% else %}
-      "{{ site.url }}/img/{{ post.image.feature }}"
-      {% endif %}
-      alt="{{ post.title | escape }} feature image">
-
-      {% if post.image.credit %}
-      <span class="image-credit">Photo Credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
-      {% endif %}
-    </div><!-- /.image-wrap -->
-    {% endif %}
-
 </section>
 {% endfor %}
 
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
+      &laquo;
     </a>
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous">&laquo;</span>
   {% endif %}
   <span class="page_number ">
     Page: {{ paginator.page }} of {{ paginator.total_pages }}
   </span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path }}" class="next">&raquo;</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next ">&raquo;</span>
   {% endif %}
 </div>

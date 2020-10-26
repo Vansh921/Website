@@ -6,9 +6,10 @@ date:       2020-07-12 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Witches"
+image: { feature: vansh.jpg }
 ---
 
-# BURNED AT STAKE
+#### - BURNED AT STAKE
 
 Hey there! In the previous post I had promised a surprise for all the readers and here it is. This
 post is the beginning of something new and I sincerely hope you enjoy reading this as much as I

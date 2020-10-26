@@ -6,9 +6,10 @@ date:       2020-07-22 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Witches"
+image: { feature: vansh.jpg }
 ---
 
-# Born With The Fear
+#### - Born With The Fear
 
 Hey there! For the past two weeks, you and I have been on a journey together. We have
 discussed about witches, cleared some previously stereotyped thoughts about them, learned a

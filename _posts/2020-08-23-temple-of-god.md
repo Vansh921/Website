@@ -6,9 +6,10 @@ date:       2020-08-23 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Articles"
+image: { feature: vansh.jpg }
 ---
 
-# Abandon the Search for God
+#### - Abandon the Search for God
 
 Hi there! Welcome, it's been long hasn't it? A series was promised, yes, but before that, I wanted
 to talk about something that's been on my mind for a long time. Now, I want you to understand

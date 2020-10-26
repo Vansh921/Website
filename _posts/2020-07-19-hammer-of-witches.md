@@ -6,9 +6,10 @@ date:       2020-07-19 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Witches"
+image: { feature: vansh.jpg }
 ---
 
-# On Trial
+#### - On Trial
 
 Hello there! Welcome back to Myths and Muses. The last time you were here, you probably read
 about the tortures that "witches" had to go through. These tortures were inhumane and utterly
