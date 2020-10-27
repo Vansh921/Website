@@ -6,7 +6,7 @@ date:       2020-07-22 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Witches"
-image: { feature: vansh.jpg }
+image: { feature: Witches4.jpg }
 ---
 
 #### - Born With The Fear
