@@ -6,7 +6,7 @@ date:       2020-07-15 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Witches"
-image: { feature: vansh.jpg }
+image: { feature: Witches2.jpg }
 ---
 
 #### - Witch torture 101 with yours truly
