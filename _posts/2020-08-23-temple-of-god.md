@@ -6,7 +6,7 @@ date:       2020-08-23 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Articles"
-image: { feature: vansh.jpg }
+image: { feature: God.jpg }
 ---
 
 #### - Abandon the Search for God
