@@ -6,7 +6,7 @@ date:       2020-08-02 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Poems"
-image: { feature: vansh.jpg }
+image: { feature: Friendship.jpg }
 ---
 
 #### - Here's to you
