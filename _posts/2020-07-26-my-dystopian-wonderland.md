@@ -6,7 +6,7 @@ date:       2020-07-26 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Articles"
-image: { feature: vansh.jpg }
+image: { feature: Dystopia.jpg }
 ---
 
 #### - Your Personal Hell
