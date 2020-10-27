@@ -2,7 +2,7 @@
 layout:     post
 title:      "Disillusioned"
 description: "A brief tour through Magic, Reality and Illusions, paired with a slight detour into Nihilism."
-date:       2020-08-05 0:10:00
+date:       2020-10-28 0:10:00
 author:     "Vansh"
 permalink: /:title/
 category: "Articles"
